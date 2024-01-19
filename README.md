@@ -1,81 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Przykładowa Strona HTML</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 20px;
-        }
+# Przykładowa Strona w Markdown
 
-        h1, h2, p {
-            color: #333;
-        }
+## Nagłówki
 
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
+### To jest nagłówek trzeciego poziomu
 
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-        }
+## Paragrafy
 
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: left;
-        }
+To jest przykładowy paragraf.
 
-        th {
-            background-color: #f2f2f2;
-        }
+Inny paragraf z [linkiem](https://stepik.org/).
 
-        img {
-            max-width: 100%;
-            height: auto;
-            margin-top: 20px;
-        }
-    </style>
-</head>
-<body>
+## Linki
 
-    <h1>Strona HTML z Elementami</h1>
+- [Link do Google](https://www.google.com)
+- [Link do GitHub](https://www.github.com)
 
-    <h2>Paragrafy:</h2>
-    <p>To jest przykładowy paragraf.</p>
-    <p>Kolejny paragraf z <a href="https://placekitten.com/">linkiem</a>.</p>
+## Tabela
 
-    <h2>Tabela:</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Nagłówek 1</th>
-                <th>Nagłówek 2</th>
-                <th>Nagłówek 3</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Wartość 1</td>
-                <td>Wartość 2</td>
-                <td>Wartość 3</td>
-            </tr>
-            <tr>
-                <td>Wartość 4</td>
-                <td>Wartość 5</td>
-                <td>Wartość 6</td>
-            </tr>
-        </tbody>
-    </table>
+| Nagłówek 1 | Nagłówek 2 | Nagłówek 3 |
+|------------|------------|------------|
+| Wartość 1  | Wartość 2  | Wartość 3  |
+| Wartość 4  | Wartość 5  | Wartość 6  |
 
-    <h2>Obrazek:</h2>
-    <img src="https://placekitten.com/400/300" alt="Kitten Image">
+## Obrazek
 
-</body>
-</html>
+![Obrazek alt text](https://placekitten.com/400/300)
+![git.jpg](git.jpg)
