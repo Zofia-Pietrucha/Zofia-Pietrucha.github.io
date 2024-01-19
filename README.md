@@ -12,7 +12,7 @@
 
     <h2>Paragrafy:</h2>
     <p>To jest przykładowy paragraf.</p>
-    <p>Kolejny paragraf z <a href="#">linkiem</a>.</p>
+    <p>Kolejny paragraf z <a href="https://placekitten.com/">linkiem</a>.</p>
 
     <h2>Tabela:</h2>
     <table>
