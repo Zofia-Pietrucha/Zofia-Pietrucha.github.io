@@ -25,4 +25,4 @@ Inny paragraf z [linkiem](https://stepik.org/).
 ## Obrazek
 
 ![Obrazek alt text](https://placekitten.com/400/300)
-![git.jpg](git.jpg)
+![git.jpg](/git.jpg)
